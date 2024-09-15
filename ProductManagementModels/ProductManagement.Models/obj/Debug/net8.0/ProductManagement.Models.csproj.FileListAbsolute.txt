@@ -1,0 +1,12 @@
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\CLasses\ProductManagementModels\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.deps.json
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.AssemblyInfoInputs.cache
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.AssemblyInfo.cs
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.sourcelink.json
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\refint\ProductManagement.Models.dll
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\Classes\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\Ayberk BOSTAN\Desktop\C#\CSharpBasicProgramming\CLasses\ProductManagementModels\ProductManagement.Models\obj\Debug\net8.0\ref\ProductManagement.Models.dll
